@@ -40,7 +40,6 @@ Projekt predstavlja spletno stran za frizerski salon **Jona Hair Design**, ki je
 
 Spodaj bo dodan posnetek zaslona celotne spletne strani v namizni različici.
 
-<!-- Tukaj dodaj desktop screenshot -->
 ![Desktop prikaz spletne strani](images/desktop-screenshot.png)
 
 ---
@@ -49,7 +48,6 @@ Spodaj bo dodan posnetek zaslona celotne spletne strani v namizni različici.
 
 Spodaj bo dodan posnetek zaslona mobilne različice spletne strani, ki prikazuje odzivnost dizajna.
 
-<!-- Tukaj dodaj mobile screenshot -->
 ![Mobilni prikaz spletne strani](images/mobile-screenshot.png)
 
 ---
@@ -58,7 +56,6 @@ Spodaj bo dodan posnetek zaslona mobilne različice spletne strani, ki prikazuje
 
 Spletna stran je indeksirana v Googlu in se prikaže med prvimi rezultati za relevantno iskanje. To prikazuje osnovno SEO optimizacijo spletne strani.
 
-<!-- Tukaj dodaj screenshot Google rezultata -->
 ![Google rezultat iskanja](images/google-search-result.png)
 
 ---
